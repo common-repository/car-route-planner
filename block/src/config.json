@@ -1,0 +1,1884 @@
+{
+    "i18nSettings": [
+        {
+            "hreflang": "en",
+            "language": "en",
+            "currency": "USD",
+            "measurement": "us_cust",
+            "url": "https:\/\/www.drivebestway.com",
+            "submitUrl": "https:\/\/www.drivebestway.com\/distance\/",
+            "default": true
+        },
+        {
+            "hreflang": "en-CA",
+            "language": "en",
+            "currency": "CAD",
+            "measurement": "metric",
+            "url": "https:\/\/ca.drivebestway.com",
+            "submitUrl": "https:\/\/ca.drivebestway.com\/distance\/"
+        },
+        {
+            "hreflang": "es",
+            "language": "es",
+            "currency": "MXN",
+            "measurement": "metric",
+            "url": "https:\/\/www.mejoresrutas.com",
+            "submitUrl": "https:\/\/www.mejoresrutas.com\/distancia\/"
+        },
+        {
+            "hreflang": "pt",
+            "language": "pt",
+            "currency": "BRL",
+            "measurement": "metric",
+            "url": "https:\/\/www.melhoresrotas.com",
+            "submitUrl": "https:\/\/www.melhoresrotas.com\/distancia\/"
+        },
+        {
+            "hreflang": "en-AU",
+            "language": "en",
+            "currency": "AUD",
+            "measurement": "metric",
+            "url": "https:\/\/au.drivebestway.com",
+            "submitUrl": "https:\/\/au.drivebestway.com\/distance\/"
+        },
+        {
+            "hreflang": "en-GB",
+            "language": "en",
+            "currency": "GBP",
+            "measurement": "metric",
+            "url": "https:\/\/gb.drivebestway.com",
+            "submitUrl": "https:\/\/gb.drivebestway.com\/distance\/"
+        },
+        {
+            "hreflang": "es-ES",
+            "language": "es",
+            "currency": "EUR",
+            "measurement": "metric",
+            "url": "https:\/\/es.mejoresrutas.com",
+            "submitUrl": "https:\/\/es.mejoresrutas.com\/distancia\/"
+        },
+        {
+            "hreflang": "es-AR",
+            "language": "es",
+            "currency": "ARS",
+            "measurement": "metric",
+            "url": "https:\/\/ar.mejoresrutas.com",
+            "submitUrl": "https:\/\/ar.mejoresrutas.com\/distancia\/"
+        },
+        {
+            "hreflang": "es-CO",
+            "language": "es",
+            "currency": "COP",
+            "measurement": "metric",
+            "url": "https:\/\/co.mejoresrutas.com",
+            "submitUrl": "https:\/\/co.mejoresrutas.com\/distancia\/"
+        },
+        {
+            "hreflang": "es-US",
+            "language": "es",
+            "currency": "USD",
+            "measurement": "us_cust",
+            "url": "https:\/\/us.mejoresrutas.com",
+            "submitUrl": "https:\/\/us.mejoresrutas.com\/distancia\/"
+        },
+        {
+            "hreflang": "es-CL",
+            "language": "es",
+            "currency": "CLP",
+            "measurement": "metric",
+            "url": "https:\/\/cl.mejoresrutas.com",
+            "submitUrl": "https:\/\/cl.mejoresrutas.com\/distancia\/"
+        },
+        {
+            "hreflang": "es-PE",
+            "language": "es",
+            "currency": "PEN",
+            "measurement": "metric",
+            "url": "https:\/\/pe.mejoresrutas.com",
+            "submitUrl": "https:\/\/pe.mejoresrutas.com\/distancia\/"
+        },
+        {
+            "hreflang": "es-VE",
+            "language": "es",
+            "currency": "VEF",
+            "measurement": "metric",
+            "url": "https:\/\/ve.mejoresrutas.com",
+            "submitUrl": "https:\/\/ve.mejoresrutas.com\/distancia\/"
+        },
+        {
+            "hreflang": "es-BR",
+            "language": "es",
+            "currency": "BRL",
+            "measurement": "metric",
+            "url": "https:\/\/br.mejoresrutas.com",
+            "submitUrl": "https:\/\/br.mejoresrutas.com\/distancia\/"
+        },
+        {
+            "hreflang": "pt-PT",
+            "language": "pt",
+            "currency": "EUR",
+            "measurement": "metric",
+            "url": "https:\/\/pt.melhoresrotas.com",
+            "submitUrl": "https:\/\/pt.melhoresrotas.com\/distancia\/"
+        },
+        {
+            "hreflang": "fr",
+            "language": "fr",
+            "currency": "EUR",
+            "measurement": "metric",
+            "url": "https:\/\/www.bonnesroutes.com",
+            "submitUrl": "https:\/\/www.bonnesroutes.com\/distance\/"
+        },
+        {
+            "hreflang": "fr-CA",
+            "language": "fr",
+            "currency": "CAD",
+            "measurement": "metric",
+            "url": "https:\/\/ca.bonnesroutes.com",
+            "submitUrl": "https:\/\/ca.bonnesroutes.com\/distance\/"
+        },
+        {
+            "hreflang": "de",
+            "language": "de",
+            "currency": "EUR",
+            "measurement": "metric",
+            "url": "https:\/\/www.besterouten.com",
+            "submitUrl": "https:\/\/www.besterouten.com\/entfernung\/"
+        },
+        {
+            "hreflang": "pl",
+            "language": "pl",
+            "currency": "PLN",
+            "measurement": "metric",
+            "url": "https:\/\/www.najlepszetrasy.com",
+            "submitUrl": "https:\/\/www.najlepszetrasy.com\/odleglosc\/"
+        },
+        {
+            "hreflang": "cs",
+            "language": "cs",
+            "currency": "CZK",
+            "measurement": "metric",
+            "url": "https:\/\/www.dobracesta.com",
+            "submitUrl": "https:\/\/www.dobracesta.com\/vzdalenost\/"
+        },
+        {
+            "hreflang": "it",
+            "language": "it",
+            "currency": "EUR",
+            "measurement": "metric",
+            "url": "https:\/\/www.percorsomigliore.com",
+            "submitUrl": "https:\/\/www.percorsomigliore.com\/distanza\/"
+        },
+        {
+            "hreflang": "ms",
+            "language": "ms",
+            "currency": "MYR",
+            "measurement": "metric",
+            "url": "https:\/\/www.pandujalanterbaik.com",
+            "submitUrl": "https:\/\/www.pandujalanterbaik.com\/jarak\/"
+        },
+        {
+            "hreflang": "nl",
+            "language": "nl",
+            "currency": "EUR",
+            "measurement": "metric",
+            "url": "https:\/\/www.besteroutes.com",
+            "submitUrl": "https:\/\/www.besteroutes.com\/afstand\/"
+        },
+        {
+            "hreflang": "tr",
+            "language": "tr",
+            "currency": "TRY",
+            "measurement": "metric",
+            "url": "https:\/\/www.duzgunyolusec.com",
+            "submitUrl": "https:\/\/www.duzgunyolusec.com\/mesafe\/"
+        },
+        {
+            "hreflang": "nl-BE",
+            "language": "nl",
+            "currency": "EUR",
+            "measurement": "metric",
+            "url": "https:\/\/be.besteroutes.com",
+            "submitUrl": "https:\/\/be.besteroutes.com\/afstand\/"
+        },
+        {
+            "hreflang": "de-BE",
+            "language": "de",
+            "currency": "EUR",
+            "measurement": "metric",
+            "url": "https:\/\/be.besterouten.com",
+            "submitUrl": "https:\/\/be.besterouten.com\/entfernung\/"
+        },
+        {
+            "hreflang": "fr-BE",
+            "language": "fr",
+            "currency": "EUR",
+            "measurement": "metric",
+            "url": "https:\/\/be.bonnesroutes.com",
+            "submitUrl": "https:\/\/be.bonnesroutes.com\/distance\/"
+        },
+        {
+            "hreflang": "fr-CH",
+            "language": "fr",
+            "currency": "EUR",
+            "measurement": "metric",
+            "url": "https:\/\/ch.bonnesroutes.com",
+            "submitUrl": "https:\/\/ch.bonnesroutes.com\/distance\/"
+        },
+        {
+            "hreflang": "de-CH",
+            "language": "de",
+            "currency": "EUR",
+            "measurement": "metric",
+            "url": "https:\/\/ch.besterouten.com",
+            "submitUrl": "https:\/\/ch.besterouten.com\/entfernung\/"
+        },
+        {
+            "hreflang": "de-AT",
+            "language": "de",
+            "currency": "EUR",
+            "measurement": "metric",
+            "url": "https:\/\/at.besterouten.com",
+            "submitUrl": "https:\/\/at.besterouten.com\/entfernung\/"
+        },
+        {
+            "hreflang": "uz",
+            "language": "uz",
+            "currency": "UZS",
+            "measurement": "metric",
+            "url": "https:\/\/www.marshrutlar.uz",
+            "submitUrl": "https:\/\/www.marshrutlar.uz\/marshrut\/"
+        }
+    ],
+    "fonts": [
+        "ABeeZee",
+        "Abel",
+        "Abril Fatface",
+        "Aclonica",
+        "Acme",
+        "Actor",
+        "Adamina",
+        "Advent Pro",
+        "Aguafina Script",
+        "Akronim",
+        "Aladin",
+        "Aldrich",
+        "Alef",
+        "Alegreya",
+        "Alegreya SC",
+        "Alegreya Sans",
+        "Alegreya Sans SC",
+        "Alex Brush",
+        "Alfa Slab One",
+        "Alice",
+        "Alike",
+        "Alike Angular",
+        "Allan",
+        "Allerta",
+        "Allerta Stencil",
+        "Allura",
+        "Almendra",
+        "Almendra Display",
+        "Almendra SC",
+        "Amarante",
+        "Amaranth",
+        "Amatic SC",
+        "Amethysta",
+        "Amiri",
+        "Anaheim",
+        "Andada",
+        "Andika",
+        "Angkor",
+        "Annie Use Your Telescope",
+        "Anonymous Pro",
+        "Antic",
+        "Antic Didone",
+        "Antic Slab",
+        "Anton",
+        "Arapey",
+        "Arbutus",
+        "Arbutus Slab",
+        "Architects Daughter",
+        "Archivo Black",
+        "Archivo Narrow",
+        "Arimo",
+        "Arizonia",
+        "Armata",
+        "Artifika",
+        "Arvo",
+        "Asap",
+        "Asset",
+        "Astloch",
+        "Asul",
+        "Atomic Age",
+        "Aubrey",
+        "Audiowide",
+        "Autour One",
+        "Average",
+        "Average Sans",
+        "Averia Gruesa Libre",
+        "Averia Libre",
+        "Averia Sans Libre",
+        "Averia Serif Libre",
+        "Bad Script",
+        "Balthazar",
+        "Bangers",
+        "Basic",
+        "Battambang",
+        "Baumans",
+        "Bayon",
+        "Belgrano",
+        "Belleza",
+        "BenchNine",
+        "Bentham",
+        "Berkshire Swash",
+        "Bevan",
+        "Bigelow Rules",
+        "Bigshot One",
+        "Bilbo",
+        "Bilbo Swash Caps",
+        "Biryani",
+        "Bitter",
+        "Black Ops One",
+        "Bokor",
+        "Bonbon",
+        "Boogaloo",
+        "Bowlby One",
+        "Bowlby One SC",
+        "Brawler",
+        "Bree Serif",
+        "Bubblegum Sans",
+        "Bubbler One",
+        "Buda",
+        "Buenard",
+        "Butcherman",
+        "Butterfly Kids",
+        "Cabin",
+        "Cabin Condensed",
+        "Cabin Sketch",
+        "Caesar Dressing",
+        "Cagliostro",
+        "Calligraffitti",
+        "Cambay",
+        "Cambo",
+        "Candal",
+        "Cantarell",
+        "Cantata One",
+        "Cantora One",
+        "Capriola",
+        "Cardo",
+        "Carme",
+        "Carrois Gothic",
+        "Carrois Gothic SC",
+        "Carter One",
+        "Caudex",
+        "Cedarville Cursive",
+        "Ceviche One",
+        "Changa One",
+        "Chango",
+        "Chau Philomene One",
+        "Chela One",
+        "Chelsea Market",
+        "Chenla",
+        "Cherry Cream Soda",
+        "Cherry Swash",
+        "Chewy",
+        "Chicle",
+        "Chivo",
+        "Cinzel",
+        "Cinzel Decorative",
+        "Clicker Script",
+        "Coda",
+        "Coda Caption",
+        "Codystar",
+        "Combo",
+        "Comfortaa",
+        "Coming Soon",
+        "Concert One",
+        "Condiment",
+        "Content",
+        "Contrail One",
+        "Convergence",
+        "Cookie",
+        "Copse",
+        "Corben",
+        "Courgette",
+        "Cousine",
+        "Coustard",
+        "Covered By Your Grace",
+        "Crafty Girls",
+        "Creepster",
+        "Crete Round",
+        "Crimson Text",
+        "Croissant One",
+        "Crushed",
+        "Cuprum",
+        "Cutive",
+        "Cutive Mono",
+        "Damion",
+        "Dancing Script",
+        "Dangrek",
+        "Dawning of a New Day",
+        "Days One",
+        "Dekko",
+        "Delius",
+        "Delius Swash Caps",
+        "Delius Unicase",
+        "Della Respira",
+        "Denk One",
+        "Devonshire",
+        "Dhurjati",
+        "Didact Gothic",
+        "Diplomata",
+        "Diplomata SC",
+        "Domine",
+        "Donegal One",
+        "Doppio One",
+        "Dorsa",
+        "Dosis",
+        "Dr Sugiyama",
+        "Droid Sans",
+        "Droid Sans Mono",
+        "Droid Serif",
+        "Duru Sans",
+        "Dynalight",
+        "EB Garamond",
+        "Eagle Lake",
+        "Eater",
+        "Economica",
+        "Ek Mukta",
+        "Electrolize",
+        "Elsie",
+        "Elsie Swash Caps",
+        "Emblema One",
+        "Emilys Candy",
+        "Engagement",
+        "Englebert",
+        "Enriqueta",
+        "Erica One",
+        "Esteban",
+        "Euphoria Script",
+        "Ewert",
+        "Exo",
+        "Exo 2",
+        "Expletus Sans",
+        "Fanwood Text",
+        "Fascinate",
+        "Fascinate Inline",
+        "Faster One",
+        "Fasthand",
+        "Fauna One",
+        "Federant",
+        "Federo",
+        "Felipa",
+        "Fenix",
+        "Finger Paint",
+        "Fira Mono",
+        "Fira Sans",
+        "Fjalla One",
+        "Fjord One",
+        "Flamenco",
+        "Flavors",
+        "Fondamento",
+        "Fontdiner Swanky",
+        "Forum",
+        "Francois One",
+        "Freckle Face",
+        "Fredericka the Great",
+        "Fredoka One",
+        "Freehand",
+        "Fresca",
+        "Frijole",
+        "Fruktur",
+        "Fugaz One",
+        "GFS Didot",
+        "GFS Neohellenic",
+        "Gabriela",
+        "Gafata",
+        "Galdeano",
+        "Galindo",
+        "Gentium Basic",
+        "Gentium Book Basic",
+        "Geo",
+        "Geostar",
+        "Geostar Fill",
+        "Germania One",
+        "Gidugu",
+        "Gilda Display",
+        "Give You Glory",
+        "Glass Antiqua",
+        "Glegoo",
+        "Gloria Hallelujah",
+        "Goblin One",
+        "Gochi Hand",
+        "Gorditas",
+        "Goudy Bookletter 1911",
+        "Graduate",
+        "Grand Hotel",
+        "Gravitas One",
+        "Great Vibes",
+        "Griffy",
+        "Gruppo",
+        "Gudea",
+        "Gurajada",
+        "Habibi",
+        "Halant",
+        "Hammersmith One",
+        "Hanalei",
+        "Hanalei Fill",
+        "Handlee",
+        "Hanuman",
+        "Happy Monkey",
+        "Headland One",
+        "Henny Penny",
+        "Herr Von Muellerhoff",
+        "Hind",
+        "Holtwood One SC",
+        "Homemade Apple",
+        "Homenaje",
+        "IM Fell DW Pica",
+        "IM Fell DW Pica SC",
+        "IM Fell Double Pica",
+        "IM Fell Double Pica SC",
+        "IM Fell English",
+        "IM Fell English SC",
+        "IM Fell French Canon",
+        "IM Fell French Canon SC",
+        "IM Fell Great Primer",
+        "IM Fell Great Primer SC",
+        "Iceberg",
+        "Iceland",
+        "Imprima",
+        "Inconsolata",
+        "Inder",
+        "Indie Flower",
+        "Inika",
+        "Irish Grover",
+        "Istok Web",
+        "Italiana",
+        "Italianno",
+        "Jacques Francois",
+        "Jacques Francois Shadow",
+        "Jaldi",
+        "Jim Nightshade",
+        "Jockey One",
+        "Jolly Lodger",
+        "Josefin Sans",
+        "Josefin Slab",
+        "Joti One",
+        "Judson",
+        "Julee",
+        "Julius Sans One",
+        "Junge",
+        "Jura",
+        "Just Another Hand",
+        "Just Me Again Down Here",
+        "Kalam",
+        "Kameron",
+        "Kantumruy",
+        "Karla",
+        "Karma",
+        "Kaushan Script",
+        "Kavoon",
+        "Kdam Thmor",
+        "Keania One",
+        "Kelly Slab",
+        "Kenia",
+        "Khand",
+        "Khmer",
+        "Khula",
+        "Kite One",
+        "Knewave",
+        "Kotta One",
+        "Koulen",
+        "Kranky",
+        "Kreon",
+        "Kristi",
+        "Krona One",
+        "La Belle Aurore",
+        "Laila",
+        "Lakki Reddy",
+        "Lancelot",
+        "Lateef",
+        "Lato",
+        "League Script",
+        "Leckerli One",
+        "Ledger",
+        "Lekton",
+        "Lemon",
+        "Libre Baskerville",
+        "Life Savers",
+        "Lilita One",
+        "Lily Script One",
+        "Limelight",
+        "Linden Hill",
+        "Lobster",
+        "Lobster Two",
+        "Londrina Outline",
+        "Londrina Shadow",
+        "Londrina Sketch",
+        "Londrina Solid",
+        "Lora",
+        "Love Ya Like A Sister",
+        "Loved by the King",
+        "Lovers Quarrel",
+        "Luckiest Guy",
+        "Lusitana",
+        "Lustria",
+        "Macondo",
+        "Macondo Swash Caps",
+        "Magra",
+        "Maiden Orange",
+        "Mako",
+        "Mallanna",
+        "Mandali",
+        "Marcellus",
+        "Marcellus SC",
+        "Marck Script",
+        "Margarine",
+        "Marko One",
+        "Marmelad",
+        "Martel",
+        "Martel Sans",
+        "Marvel",
+        "Mate",
+        "Mate SC",
+        "Maven Pro",
+        "McLaren",
+        "Meddon",
+        "MedievalSharp",
+        "Medula One",
+        "Megrim",
+        "Meie Script",
+        "Merienda",
+        "Merienda One",
+        "Merriweather",
+        "Merriweather Sans",
+        "Metal",
+        "Metal Mania",
+        "Metamorphous",
+        "Metrophobic",
+        "Michroma",
+        "Milonga",
+        "Miltonian",
+        "Miltonian Tattoo",
+        "Miniver",
+        "Miss Fajardose",
+        "Modak",
+        "Modern Antiqua",
+        "Molengo",
+        "Molle",
+        "Monda",
+        "Monofett",
+        "Monoton",
+        "Monsieur La Doulaise",
+        "Montaga",
+        "Montez",
+        "Montserrat",
+        "Montserrat Alternates",
+        "Montserrat Subrayada",
+        "Moul",
+        "Moulpali",
+        "Mountains of Christmas",
+        "Mouse Memoirs",
+        "Mr Bedfort",
+        "Mr Dafoe",
+        "Mr De Haviland",
+        "Mrs Saint Delafield",
+        "Mrs Sheppards",
+        "Muli",
+        "Mystery Quest",
+        "NTR",
+        "Neucha",
+        "Neuton",
+        "New Rocker",
+        "News Cycle",
+        "Niconne",
+        "Nixie One",
+        "Nobile",
+        "Nokora",
+        "Norican",
+        "Nosifer",
+        "Nothing You Could Do",
+        "Noticia Text",
+        "Noto Sans",
+        "Noto Serif",
+        "Nova Cut",
+        "Nova Flat",
+        "Nova Mono",
+        "Nova Oval",
+        "Nova Round",
+        "Nova Script",
+        "Nova Slim",
+        "Nova Square",
+        "Numans",
+        "Nunito",
+        "Odor Mean Chey",
+        "Offside",
+        "Old Standard TT",
+        "Oldenburg",
+        "Oleo Script",
+        "Oleo Script Swash Caps",
+        "Open Sans",
+        "Open Sans Condensed",
+        "Oranienbaum",
+        "Orbitron",
+        "Oregano",
+        "Orienta",
+        "Original Surfer",
+        "Oswald",
+        "Over the Rainbow",
+        "Overlock",
+        "Overlock SC",
+        "Ovo",
+        "Oxygen",
+        "Oxygen Mono",
+        "PT Mono",
+        "PT Sans",
+        "PT Sans Caption",
+        "PT Sans Narrow",
+        "PT Serif",
+        "PT Serif Caption",
+        "Pacifico",
+        "Palanquin",
+        "Palanquin Dark",
+        "Paprika",
+        "Parisienne",
+        "Passero One",
+        "Passion One",
+        "Pathway Gothic One",
+        "Patrick Hand",
+        "Patrick Hand SC",
+        "Patua One",
+        "Paytone One",
+        "Peddana",
+        "Peralta",
+        "Permanent Marker",
+        "Petit Formal Script",
+        "Petrona",
+        "Philosopher",
+        "Piedra",
+        "Pinyon Script",
+        "Pirata One",
+        "Plaster",
+        "Play",
+        "Playball",
+        "Playfair Display",
+        "Playfair Display SC",
+        "Podkova",
+        "Poiret One",
+        "Poller One",
+        "Poly",
+        "Pompiere",
+        "Pontano Sans",
+        "Port Lligat Sans",
+        "Port Lligat Slab",
+        "Pragati Narrow",
+        "Prata",
+        "Preahvihear",
+        "Press Start 2P",
+        "Princess Sofia",
+        "Prociono",
+        "Prosto One",
+        "Puritan",
+        "Purple Purse",
+        "Quando",
+        "Quantico",
+        "Quattrocento",
+        "Quattrocento Sans",
+        "Questrial",
+        "Quicksand",
+        "Quintessential",
+        "Qwigley",
+        "Racing Sans One",
+        "Radley",
+        "Rajdhani",
+        "Raleway",
+        "Raleway Dots",
+        "Ramabhadra",
+        "Ramaraja",
+        "Rambla",
+        "Rammetto One",
+        "Ranchers",
+        "Rancho",
+        "Ranga",
+        "Rationale",
+        "Ravi Prakash",
+        "Redressed",
+        "Reenie Beanie",
+        "Revalia",
+        "Ribeye",
+        "Ribeye Marrow",
+        "Righteous",
+        "Risque",
+        "Roboto",
+        "Roboto Condensed",
+        "Roboto Slab",
+        "Rochester",
+        "Rock Salt",
+        "Rokkitt",
+        "Romanesco",
+        "Ropa Sans",
+        "Rosario",
+        "Rosarivo",
+        "Rouge Script",
+        "Rozha One",
+        "Rubik Mono One",
+        "Rubik One",
+        "Ruda",
+        "Rufina",
+        "Ruge Boogie",
+        "Ruluko",
+        "Rum Raisin",
+        "Ruslan Display",
+        "Russo One",
+        "Ruthie",
+        "Rye",
+        "Sacramento",
+        "Sail",
+        "Salsa",
+        "Sanchez",
+        "Sancreek",
+        "Sansita One",
+        "Sarina",
+        "Sarpanch",
+        "Satisfy",
+        "Scada",
+        "Scheherazade",
+        "Schoolbell",
+        "Seaweed Script",
+        "Sevillana",
+        "Seymour One",
+        "Shadows Into Light",
+        "Shadows Into Light Two",
+        "Shanti",
+        "Share",
+        "Share Tech",
+        "Share Tech Mono",
+        "Shojumaru",
+        "Short Stack",
+        "Siemreap",
+        "Sigmar One",
+        "Signika",
+        "Signika Negative",
+        "Simonetta",
+        "Sintony",
+        "Sirin Stencil",
+        "Six Caps",
+        "Skranji",
+        "Slabo 13px",
+        "Slabo 27px",
+        "Slackey",
+        "Smokum",
+        "Smythe",
+        "Sniglet",
+        "Snippet",
+        "Snowburst One",
+        "Sofadi One",
+        "Sofia",
+        "Sonsie One",
+        "Sorts Mill Goudy",
+        "Source Code Pro",
+        "Source Sans Pro",
+        "Source Serif Pro",
+        "Special Elite",
+        "Spicy Rice",
+        "Spinnaker",
+        "Spirax",
+        "Squada One",
+        "Sree Krushnadevaraya",
+        "Stalemate",
+        "Stalinist One",
+        "Stardos Stencil",
+        "Stint Ultra Condensed",
+        "Stint Ultra Expanded",
+        "Stoke",
+        "Strait",
+        "Sue Ellen Francisco",
+        "Sunshiney",
+        "Supermercado One",
+        "Suranna",
+        "Suravaram",
+        "Suwannaphum",
+        "Swanky and Moo Moo",
+        "Syncopate",
+        "Tangerine",
+        "Taprom",
+        "Tauri",
+        "Teko",
+        "Telex",
+        "Tenali Ramakrishna",
+        "Tenor Sans",
+        "Text Me One",
+        "The Girl Next Door",
+        "Tienne",
+        "Timmana",
+        "Tinos",
+        "Titan One",
+        "Titillium Web",
+        "Trade Winds",
+        "Trocchi",
+        "Trochut",
+        "Trykker",
+        "Tulpen One",
+        "Ubuntu",
+        "Ubuntu Condensed",
+        "Ubuntu Mono",
+        "Ultra",
+        "Uncial Antiqua",
+        "Underdog",
+        "Unica One",
+        "UnifrakturCook",
+        "UnifrakturMaguntia",
+        "Unkempt",
+        "Unlock",
+        "Unna",
+        "VT323",
+        "Vampiro One",
+        "Varela",
+        "Varela Round",
+        "Vast Shadow",
+        "Vesper Libre",
+        "Vibur",
+        "Vidaloka",
+        "Viga",
+        "Voces",
+        "Volkhov",
+        "Vollkorn",
+        "Voltaire",
+        "Waiting for the Sunrise",
+        "Wallpoet",
+        "Walter Turncoat",
+        "Warnes",
+        "Wellfleet",
+        "Wendy One",
+        "Wire One",
+        "Yanone Kaffeesatz",
+        "Yellowtail",
+        "Yeseva One",
+        "Yesteryear",
+        "Zeyada"
+    ],
+    "languages": [
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "pl",
+        "cs",
+        "it",
+        "ms",
+        "nl",
+        "tr",
+        "uz"
+    ],
+    "currencies": [
+        "ARS",
+        "AUD",
+        "BRL",
+        "CAD",
+        "CHF",
+        "CLP",
+        "CNY",
+        "COP",
+        "CZK",
+        "DKK",
+        "DOP",
+        "EUR",
+        "GBP",
+        "INR",
+        "IRR",
+        "MXN",
+        "MYR",
+        "NGN",
+        "PEN",
+        "PHP",
+        "PLN",
+        "RUB",
+        "SEK",
+        "TRY",
+        "USD",
+        "UZS",
+        "VEF",
+        "ZAR"
+    ],
+    "countries": [
+        {
+            "iso": "AF",
+            "name": "Afgh\u00e1nist\u00e1n"
+        },
+        {
+            "iso": "AL",
+            "name": "Alb\u00e1nie"
+        },
+        {
+            "iso": "DZ",
+            "name": "Al\u017e\u00edrsko"
+        },
+        {
+            "iso": "AD",
+            "name": "Andorra"
+        },
+        {
+            "iso": "AO",
+            "name": "Angola"
+        },
+        {
+            "iso": "AI",
+            "name": "Anguilla"
+        },
+        {
+            "iso": "AG",
+            "name": "Antigua a Barbuda"
+        },
+        {
+            "iso": "AR",
+            "name": "Argentina"
+        },
+        {
+            "iso": "AM",
+            "name": "Arm\u00e9nie"
+        },
+        {
+            "iso": "AU",
+            "name": "Austr\u00e1lie"
+        },
+        {
+            "iso": "AT",
+            "name": "Rakousko"
+        },
+        {
+            "iso": "AZ",
+            "name": "\u00c1zerb\u00e1jd\u017e\u00e1n"
+        },
+        {
+            "iso": "BH",
+            "name": "Bahrajn"
+        },
+        {
+            "iso": "BD",
+            "name": "Banglad\u00e9\u0161"
+        },
+        {
+            "iso": "BB",
+            "name": "Barbados"
+        },
+        {
+            "iso": "BY",
+            "name": "B\u011blorusko"
+        },
+        {
+            "iso": "BE",
+            "name": "Belgie"
+        },
+        {
+            "iso": "BZ",
+            "name": "Belize"
+        },
+        {
+            "iso": "BJ",
+            "name": "Benin"
+        },
+        {
+            "iso": "BM",
+            "name": "Bermudy"
+        },
+        {
+            "iso": "BT",
+            "name": "Bh\u00fat\u00e1n"
+        },
+        {
+            "iso": "BO",
+            "name": "Bol\u00edvie"
+        },
+        {
+            "iso": "BA",
+            "name": "Bosna a Hercegovina"
+        },
+        {
+            "iso": "BW",
+            "name": "Botswana"
+        },
+        {
+            "iso": "BR",
+            "name": "Braz\u00edlie"
+        },
+        {
+            "iso": "IO",
+            "name": "Britsk\u00e9 indickooce\u00e1nsk\u00e9 \u00fazem\u00ed"
+        },
+        {
+            "iso": "VG",
+            "name": "Britsk\u00e9 Panensk\u00e9 ostrovy"
+        },
+        {
+            "iso": "BN",
+            "name": "Brunej"
+        },
+        {
+            "iso": "BG",
+            "name": "Bulharsko"
+        },
+        {
+            "iso": "BF",
+            "name": "Burkina Faso"
+        },
+        {
+            "iso": "BI",
+            "name": "Burundi"
+        },
+        {
+            "iso": "KH",
+            "name": "Kambod\u017ea"
+        },
+        {
+            "iso": "CM",
+            "name": "Kamerun"
+        },
+        {
+            "iso": "CA",
+            "name": "Kanada"
+        },
+        {
+            "iso": "CV",
+            "name": "Kapverdy"
+        },
+        {
+            "iso": "KY",
+            "name": "Kajmansk\u00e9 ostrovy"
+        },
+        {
+            "iso": "CF",
+            "name": "St\u0159edoafrick\u00e1 republika"
+        },
+        {
+            "iso": "TD",
+            "name": "\u010cad"
+        },
+        {
+            "iso": "CL",
+            "name": "Chile"
+        },
+        {
+            "iso": "CN",
+            "name": "\u010c\u00edna"
+        },
+        {
+            "iso": "CO",
+            "name": "Kolumbie"
+        },
+        {
+            "iso": "KM",
+            "name": "Komory"
+        },
+        {
+            "iso": "CG",
+            "name": "Republika Kongo"
+        },
+        {
+            "iso": "CK",
+            "name": "Cookovy ostrovy"
+        },
+        {
+            "iso": "CR",
+            "name": "Kostarika"
+        },
+        {
+            "iso": "HR",
+            "name": "Chorvatsko"
+        },
+        {
+            "iso": "CU",
+            "name": "Kuba"
+        },
+        {
+            "iso": "CY",
+            "name": "Kypr"
+        },
+        {
+            "iso": "CZ",
+            "name": "\u010cesko"
+        },
+        {
+            "iso": "CI",
+            "name": "Pob\u0159e\u017e\u00ed slonoviny"
+        },
+        {
+            "iso": "CD",
+            "name": "Demokratick\u00e1 republika Kongo"
+        },
+        {
+            "iso": "DK",
+            "name": "D\u00e1nsko"
+        },
+        {
+            "iso": "DJ",
+            "name": "D\u017eibutsko"
+        },
+        {
+            "iso": "DM",
+            "name": "Dominika"
+        },
+        {
+            "iso": "DO",
+            "name": "Dominik\u00e1nsk\u00e1 republika"
+        },
+        {
+            "iso": "TL",
+            "name": "V\u00fdchodn\u00ed Timor"
+        },
+        {
+            "iso": "EC",
+            "name": "Ekv\u00e1dor"
+        },
+        {
+            "iso": "EG",
+            "name": "Egypt"
+        },
+        {
+            "iso": "SV",
+            "name": "Salvador"
+        },
+        {
+            "iso": "GQ",
+            "name": "Rovn\u00edkov\u00e1 Guinea"
+        },
+        {
+            "iso": "ER",
+            "name": "Eritrea"
+        },
+        {
+            "iso": "EE",
+            "name": "Estonsko"
+        },
+        {
+            "iso": "ET",
+            "name": "Etiopie"
+        },
+        {
+            "iso": "FK",
+            "name": "Falklandy"
+        },
+        {
+            "iso": "FO",
+            "name": "Faersk\u00e9 ostrovy"
+        },
+        {
+            "iso": "FM",
+            "name": "Mikron\u00e9sie"
+        },
+        {
+            "iso": "FJ",
+            "name": "Fid\u017ei"
+        },
+        {
+            "iso": "FI",
+            "name": "Finsko"
+        },
+        {
+            "iso": "FR",
+            "name": "Francie"
+        },
+        {
+            "iso": "GA",
+            "name": "Gabon"
+        },
+        {
+            "iso": "GM",
+            "name": "Gambie"
+        },
+        {
+            "iso": "GE",
+            "name": "Gruzie"
+        },
+        {
+            "iso": "DE",
+            "name": "Deutschland"
+        },
+        {
+            "iso": "GH",
+            "name": "Ghana"
+        },
+        {
+            "iso": "GI",
+            "name": "Gibraltar"
+        },
+        {
+            "iso": "GR",
+            "name": "\u0158ecko"
+        },
+        {
+            "iso": "GL",
+            "name": "Gr\u00f3nsko"
+        },
+        {
+            "iso": "GD",
+            "name": "Grenada"
+        },
+        {
+            "iso": "GT",
+            "name": "Guatemala"
+        },
+        {
+            "iso": "GG",
+            "name": "Guernsey"
+        },
+        {
+            "iso": "GN",
+            "name": "Guinea"
+        },
+        {
+            "iso": "GW",
+            "name": "Guinea-Bissau"
+        },
+        {
+            "iso": "GY",
+            "name": "Guyana"
+        },
+        {
+            "iso": "HT",
+            "name": "Haiti"
+        },
+        {
+            "iso": "HN",
+            "name": "Honduras"
+        },
+        {
+            "iso": "HU",
+            "name": "Ma\u010farsko"
+        },
+        {
+            "iso": "IS",
+            "name": "Island"
+        },
+        {
+            "iso": "IN",
+            "name": "Indie"
+        },
+        {
+            "iso": "ID",
+            "name": "Indon\u00e9sie"
+        },
+        {
+            "iso": "IR",
+            "name": "\u00cdr\u00e1n"
+        },
+        {
+            "iso": "IQ",
+            "name": "Ir\u00e1k"
+        },
+        {
+            "iso": "IE",
+            "name": "Irsko"
+        },
+        {
+            "iso": "IM",
+            "name": "Man"
+        },
+        {
+            "iso": "IL",
+            "name": "Izrael"
+        },
+        {
+            "iso": "IT",
+            "name": "It\u00e1lie"
+        },
+        {
+            "iso": "JM",
+            "name": "Jamajka"
+        },
+        {
+            "iso": "JP",
+            "name": "Japonsko"
+        },
+        {
+            "iso": "JE",
+            "name": "Jersey"
+        },
+        {
+            "iso": "JO",
+            "name": "Jord\u00e1nsko"
+        },
+        {
+            "iso": "KZ",
+            "name": "Kazachst\u00e1n"
+        },
+        {
+            "iso": "KE",
+            "name": "Ke\u0148a"
+        },
+        {
+            "iso": "KI",
+            "name": "Kiribati"
+        },
+        {
+            "iso": "KW",
+            "name": "Kuvajt"
+        },
+        {
+            "iso": "KG",
+            "name": "Kyrgyzst\u00e1n"
+        },
+        {
+            "iso": "LA",
+            "name": "Laos"
+        },
+        {
+            "iso": "LV",
+            "name": "Loty\u0161sko"
+        },
+        {
+            "iso": "LB",
+            "name": "Libanon"
+        },
+        {
+            "iso": "LS",
+            "name": "Lesotho"
+        },
+        {
+            "iso": "LR",
+            "name": "Lib\u00e9rie"
+        },
+        {
+            "iso": "LY",
+            "name": "Libye"
+        },
+        {
+            "iso": "LI",
+            "name": "Lichten\u0161tejnsko"
+        },
+        {
+            "iso": "LT",
+            "name": "Litva"
+        },
+        {
+            "iso": "LU",
+            "name": "Lucembursko"
+        },
+        {
+            "iso": "MK",
+            "name": "Severn\u00ed Makedonie"
+        },
+        {
+            "iso": "MG",
+            "name": "Madagaskar"
+        },
+        {
+            "iso": "MW",
+            "name": "Malawi"
+        },
+        {
+            "iso": "MY",
+            "name": "Malajsie"
+        },
+        {
+            "iso": "MV",
+            "name": "Maledivy"
+        },
+        {
+            "iso": "ML",
+            "name": "Mali"
+        },
+        {
+            "iso": "MT",
+            "name": "Malta"
+        },
+        {
+            "iso": "MH",
+            "name": "Ael\u014dn\u0304 in M\u0327aje\u013c"
+        },
+        {
+            "iso": "MR",
+            "name": "Maurit\u00e1nie"
+        },
+        {
+            "iso": "MU",
+            "name": "Mauricius"
+        },
+        {
+            "iso": "MX",
+            "name": "Mexiko"
+        },
+        {
+            "iso": "MD",
+            "name": "Moldavsko"
+        },
+        {
+            "iso": "MC",
+            "name": "Monako"
+        },
+        {
+            "iso": "MN",
+            "name": "Mongolsko"
+        },
+        {
+            "iso": "ME",
+            "name": "\u010cern\u00e1 Hora"
+        },
+        {
+            "iso": "MS",
+            "name": "Montserrat"
+        },
+        {
+            "iso": "MA",
+            "name": "Maroko"
+        },
+        {
+            "iso": "MZ",
+            "name": "Mosambik"
+        },
+        {
+            "iso": "MM",
+            "name": "Myanmar"
+        },
+        {
+            "iso": "NA",
+            "name": "Namibie"
+        },
+        {
+            "iso": "NR",
+            "name": "Nauru"
+        },
+        {
+            "iso": "NP",
+            "name": "Nep\u00e1l"
+        },
+        {
+            "iso": "NZ",
+            "name": "Nov\u00fd Z\u00e9land"
+        },
+        {
+            "iso": "NI",
+            "name": "Nikaragua"
+        },
+        {
+            "iso": "NE",
+            "name": "Niger"
+        },
+        {
+            "iso": "NG",
+            "name": "Nig\u00e9rie"
+        },
+        {
+            "iso": "NU",
+            "name": "Niue"
+        },
+        {
+            "iso": "KP",
+            "name": "Severn\u00ed Korea"
+        },
+        {
+            "iso": "NO",
+            "name": "Norsko"
+        },
+        {
+            "iso": "OM",
+            "name": "Om\u00e1n"
+        },
+        {
+            "iso": "PK",
+            "name": "P\u00e1kist\u00e1n"
+        },
+        {
+            "iso": "PW",
+            "name": "Palau"
+        },
+        {
+            "iso": "PS",
+            "name": "\u0627\u0644\u0623\u0631\u0627\u0636\u064a \u0627\u0644\u0641\u0644\u0633\u0637\u064a\u0646\u064a\u0629"
+        },
+        {
+            "iso": "PA",
+            "name": "Panama"
+        },
+        {
+            "iso": "PG",
+            "name": "Papua Nov\u00e1 Guinea"
+        },
+        {
+            "iso": "PY",
+            "name": "Paraguay"
+        },
+        {
+            "iso": "PE",
+            "name": "Peru"
+        },
+        {
+            "iso": "PH",
+            "name": "Filip\u00edny"
+        },
+        {
+            "iso": "PN",
+            "name": "Pitcairnovy ostrovy"
+        },
+        {
+            "iso": "PL",
+            "name": "Polsko"
+        },
+        {
+            "iso": "PT",
+            "name": "Portugalsko"
+        },
+        {
+            "iso": "PR",
+            "name": "name"
+        },
+        {
+            "iso": "QA",
+            "name": "Katar"
+        },
+        {
+            "iso": "XK",
+            "name": "Kosovo"
+        },
+        {
+            "iso": "RO",
+            "name": "Rumunsko"
+        },
+        {
+            "iso": "RU",
+            "name": "Rusko"
+        },
+        {
+            "iso": "RW",
+            "name": "Rwanda"
+        },
+        {
+            "iso": "SH",
+            "name": "Svat\u00e1 Helena, Ascension a Tristan da Cunha"
+        },
+        {
+            "iso": "KN",
+            "name": "Svat\u00fd Kry\u0161tof a Nevis"
+        },
+        {
+            "iso": "LC",
+            "name": "Svat\u00e1 Lucie"
+        },
+        {
+            "iso": "VC",
+            "name": "Svat\u00fd Vincent a Grenadiny"
+        },
+        {
+            "iso": "WS",
+            "name": "Samoa"
+        },
+        {
+            "iso": "SM",
+            "name": "San Marino"
+        },
+        {
+            "iso": "SA",
+            "name": "Sa\u00fadsk\u00e1 Ar\u00e1bie"
+        },
+        {
+            "iso": "SN",
+            "name": "Senegal"
+        },
+        {
+            "iso": "RS",
+            "name": "Srbsko"
+        },
+        {
+            "iso": "SC",
+            "name": "Seychely"
+        },
+        {
+            "iso": "SL",
+            "name": "Sierra Leone"
+        },
+        {
+            "iso": "SG",
+            "name": "Singapur"
+        },
+        {
+            "iso": "SK",
+            "name": "Slovensko"
+        },
+        {
+            "iso": "SI",
+            "name": "Slovinsko"
+        },
+        {
+            "iso": "SB",
+            "name": "\u0160alomounovy ostrovy"
+        },
+        {
+            "iso": "SO",
+            "name": "Som\u00e1lsko"
+        },
+        {
+            "iso": "ZA",
+            "name": "Jihoafrick\u00e1 republika"
+        },
+        {
+            "iso": "GS",
+            "name": "Ji\u017en\u00ed Georgie a Ji\u017en\u00ed Sandwichovy ostrovy"
+        },
+        {
+            "iso": "KR",
+            "name": "Ji\u017en\u00ed Korea"
+        },
+        {
+            "iso": "SS",
+            "name": "Ji\u017en\u00ed S\u00fad\u00e1n"
+        },
+        {
+            "iso": "ES",
+            "name": "\u0160pan\u011blsko"
+        },
+        {
+            "iso": "LK",
+            "name": "Sr\u00ed Lanka"
+        },
+        {
+            "iso": "SD",
+            "name": "S\u00fad\u00e1n"
+        },
+        {
+            "iso": "SR",
+            "name": "Surinam"
+        },
+        {
+            "iso": "SZ",
+            "name": "Svazijsko"
+        },
+        {
+            "iso": "SE",
+            "name": "\u0160v\u00e9dsko"
+        },
+        {
+            "iso": "CH",
+            "name": "\u0160v\u00fdcarsko"
+        },
+        {
+            "iso": "SY",
+            "name": "S\u00fdrie"
+        },
+        {
+            "iso": "ST",
+            "name": "Svat\u00fd Tom\u00e1\u0161 a Princ\u016fv ostrov"
+        },
+        {
+            "iso": "TW",
+            "name": "Tchaj-wan"
+        },
+        {
+            "iso": "TJ",
+            "name": "T\u00e1d\u017eikist\u00e1n"
+        },
+        {
+            "iso": "TZ",
+            "name": "Tanzanie"
+        },
+        {
+            "iso": "TH",
+            "name": "Thajsko"
+        },
+        {
+            "iso": "BS",
+            "name": "Bahamy"
+        },
+        {
+            "iso": "NL",
+            "name": "Nizozemsko"
+        },
+        {
+            "iso": "TG",
+            "name": "Togo"
+        },
+        {
+            "iso": "TK",
+            "name": "Tokelau"
+        },
+        {
+            "iso": "TO",
+            "name": "Tonga"
+        },
+        {
+            "iso": "TT",
+            "name": "Trinidad a Tobago"
+        },
+        {
+            "iso": "TN",
+            "name": "Tunisko"
+        },
+        {
+            "iso": "TR",
+            "name": "Turecko"
+        },
+        {
+            "iso": "TM",
+            "name": "Turkmenist\u00e1n"
+        },
+        {
+            "iso": "TC",
+            "name": "Turks a Caicos"
+        },
+        {
+            "iso": "TV",
+            "name": "Tuvalu"
+        },
+        {
+            "iso": "UG",
+            "name": "Uganda"
+        },
+        {
+            "iso": "UA",
+            "name": "Ukrajina"
+        },
+        {
+            "iso": "AE",
+            "name": "Spojen\u00e9 arabsk\u00e9 emir\u00e1ty"
+        },
+        {
+            "iso": "GB",
+            "name": "Spojen\u00e9 kr\u00e1lovstv\u00ed"
+        },
+        {
+            "iso": "US",
+            "name": "Spojen\u00e9 st\u00e1ty"
+        },
+        {
+            "iso": "UY",
+            "name": "Uruguay"
+        },
+        {
+            "iso": "UZ",
+            "name": "Uzbekist\u00e1n"
+        },
+        {
+            "iso": "VU",
+            "name": "Vanuatu"
+        },
+        {
+            "iso": "VA",
+            "name": "Vatik\u00e1n"
+        },
+        {
+            "iso": "VE",
+            "name": "Venezuela"
+        },
+        {
+            "iso": "VN",
+            "name": "Vietnam"
+        },
+        {
+            "iso": "YE",
+            "name": "Jemen"
+        },
+        {
+            "iso": "ZM",
+            "name": "Zambie"
+        },
+        {
+            "iso": "ZW",
+            "name": "Zimbabwe"
+        },
+        {
+            "iso": "NF",
+            "name": "name"
+        }
+    ]
+}

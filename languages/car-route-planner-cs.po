@@ -1,0 +1,245 @@
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+
+#: class.car-route-planner-admin.php:21
+msgid "Settings"
+msgstr "Nastavení"
+
+#: class.car-route-planner-admin.php:28 class.car-route-planner-admin.php:29
+msgid "Car Route Planner"
+msgstr "Plánovač Trasy Auta"
+
+#: class.car-route-planner-admin.php:39
+msgid "Plugin's server is temporarily unavailable. Reload the page in a few minutes."
+msgstr "Omlouváme se, server je plný, zkuste to prosím zachvíli."
+
+#: class.car-route-planner-admin.php:95
+msgid "Kilometer, liter"
+msgstr "Kilometr, litr"
+
+#: class.car-route-planner-admin.php:96
+msgid "Mile, UK gallon"
+msgstr "Míle, UK gallon"
+
+#: class.car-route-planner-admin.php:97
+msgid "Mile, US gallon"
+msgstr "Míle, US gallon"
+
+#: class.car-route-planner-admin.php:109 class.car-route-planner-admin.php:229
+msgid "Generate shortcode"
+msgstr "Generujte shortcode"
+
+#: class.car-route-planner-admin.php:116
+msgid "Minimalistic mode, results will be displayed on plugin developer's website."
+msgstr "Minimalistický režim, výsledky se zobrazí na webu vývojáře pluginu."
+
+#: class.car-route-planner-admin.php:117
+msgid "Advanced mode, results will be displayed inside iframe with 'powered by' hyperlink."
+msgstr "V rozšířeném režimu budou výsledky zobrazeny uvnitř prvku iframe s hypertextovým odkazem 'powered by'."
+
+#: class.car-route-planner-admin.php:120
+msgid "General settings"
+msgstr "Obecné nastavení"
+
+#: class.car-route-planner-admin.php:122
+msgid "Language"
+msgstr "Jazyk"
+
+#: class.car-route-planner-admin.php:130
+msgid "Currency"
+msgstr "Měna"
+
+#: class.car-route-planner-admin.php:138
+msgid "Units"
+msgstr "Jednotky"
+
+#: class.car-route-planner-admin.php:148
+msgid "Design"
+msgstr "Design"
+
+#: class.car-route-planner-admin.php:150
+msgid "Text color"
+msgstr "Barva textu"
+
+#: class.car-route-planner-admin.php:153
+msgid "Background color"
+msgstr "Barva pozadí"
+
+#: class.car-route-planner-admin.php:156
+msgid "Accent color"
+msgstr "Barva zvýraznění"
+
+#: class.car-route-planner-admin.php:160
+msgid "Form"
+msgstr "Formulář"
+
+#: class.car-route-planner-admin.php:162
+msgid "Default value for \"%s\""
+msgstr "Běžná hodnota pro \"%s\""
+
+#: class.car-route-planner-admin.php:162
+msgid "From"
+msgstr "Z"
+
+#: class.car-route-planner-admin.php:165
+msgid "To"
+msgstr "Do"
+
+#: class.car-route-planner-admin.php:169
+msgid "show \"%s\""
+msgstr "zobrazit \"%s\""
+
+#: class.car-route-planner-admin.php:180
+msgid "hide \"%s\""
+msgstr "skrýt \"%s\""
+
+#: class.car-route-planner-admin.php:181
+msgid "default value for \"%s\" must be specified"
+msgstr "běžná hodnota \"%s\" musí být uvedeno"
+
+#: class.car-route-planner-admin.php:171
+msgid "Intermediate points"
+msgstr "Mezilehlé body"
+
+#: class.car-route-planner-admin.php:175
+msgid "show fuel calculator"
+msgstr "zobrazit kalkurátor paliva"
+
+#: class.car-route-planner-admin.php:177
+msgid "Fuel consumption"
+msgstr "Spotřeba paliva"
+
+#: class.car-route-planner-admin.php:180
+msgid "Fuel price"
+msgstr "Cena paliva"
+
+#: class.car-route-planner-admin.php:184
+msgid "show \"Maximum speed\" fields"
+msgstr "zobrazit \"Maximální rychlost\""
+
+#: class.car-route-planner-admin.php:186
+msgid "Maximum speed on motorway"
+msgstr "Maximální rychlost na dálnici"
+
+#: class.car-route-planner-admin.php:189
+msgid "Maximum speed on other roads"
+msgstr "Maximální rychlost na ostatních silnicích"
+
+#: class.car-route-planner-admin.php:194
+msgid "Results"
+msgstr "Výsledky"
+
+#: class.car-route-planner-admin.php:197
+msgid "Route length"
+msgstr "Délka trasy"
+
+#: class.car-route-planner-admin.php:200
+msgid "Driving time"
+msgstr "Čas jízdy"
+
+#: class.car-route-planner-admin.php:203
+msgid "Fuel amount"
+msgstr "Množství paliva"
+
+#: class.car-route-planner-admin.php:206
+msgid "Fuel cost"
+msgstr "Cena paliva"
+
+#: class.car-route-planner-admin.php:209
+msgid "Customized cost"
+msgstr "Upravená cena"
+
+#: class.car-route-planner-admin.php:210
+msgid "how to compose formula"
+msgstr "jak vytvořit vzorec"
+
+#: class.car-route-planner-admin.php:211
+msgid "Formula for \"Customized cost\""
+msgstr "Vzorec pro \"Upravená cena\""
+
+#: class.car-route-planner-admin.php:214
+msgid "Label for \"Customized cost\""
+msgstr "Štítek pro \"Upravená cena\""
+
+#: class.car-route-planner-admin.php:218
+msgid "show map"
+msgstr "zobrazit mapu"
+
+#: class.car-route-planner-admin.php:221
+msgid "show route scheme"
+msgstr "zobrazit schéma tras"
+
+#: class.car-route-planner-admin.php:224
+msgid "calculate route automatically on page load"
+msgstr "automaticky vypočítat trasu po načtení stránky"
+
+#: class.car-route-planner-admin.php:232
+msgid "Copy shortcode"
+msgstr "Zkopírovat shortcode"
+
+#: class.car-route-planner-admin.php:235 class.car-route-planner-admin.php:239
+msgid "Copy shortcode to clipboard"
+msgstr "Zkopírujte shortcode do schránky"
+
+#: class.car-route-planner-admin.php:236
+msgid "Copy this shortcode into your post or page to display the Route Planner."
+msgstr "Zkopírujte tento shortcode do svého příspěvku nebo stránky a zobrazí se Plánovač tras."
+
+#: class.car-route-planner-admin.php:240
+msgid "Copied"
+msgstr "Zkopírováno"
+
+#: class.car-route-planner.php:211
+msgid "Calculate"
+msgstr "Vypočítat"
+
+#: class.car-route-planner.php:343
+msgid "mpg"
+msgstr "m/g"
+
+#: class.car-route-planner.php:352
+msgid "km/h"
+msgstr "km/h"
+
+#: class.car-route-planner.php:354
+msgid "mph"
+msgstr "m/h"
+
+#: class.car-route-planner.php:359
+msgid "km"
+msgstr "km"
+
+#: class.car-route-planner.php:361
+msgid "mi"
+msgstr "mi"
+
+#: class.car-route-planner.php:366
+msgid "L"
+msgstr "L"
+
+#: class.car-route-planner.php:368
+msgid "gal"
+msgstr "gal"
+
+#: class.car-route-planner-admin.php:269
+msgid "strictly limit results by countries"
+msgstr "přísně omezit výsledek zemí"
+
+#: class.car-route-planner-admin.php:279
+msgid "soft preference for countries"
+msgstr "preference pro země"
+
+#: class.car-route-planner-admin.php:168
+msgid "Disable font auto tuning"
+msgstr "Zakázat automatické ladění písma"
+
+#: class.car-route-planner-admin.php:172
+msgid "Font family"
+msgstr "Rodina písem"
+
+#: class.car-route-planner-admin.php:181
+msgid "Font size"
+msgstr "Velikost písma"

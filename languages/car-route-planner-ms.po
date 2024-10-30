@@ -1,0 +1,245 @@
+"Language: ms\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: class.car-route-planner-admin.php:21
+msgid "Settings"
+msgstr "Tetapan"
+
+#: class.car-route-planner-admin.php:28 class.car-route-planner-admin.php:29
+msgid "Car Route Planner"
+msgstr "Perancang Laluan Kereta"
+
+#: class.car-route-planner-admin.php:39
+msgid "Plugin's server is temporarily unavailable. Reload the page in a few minutes."
+msgstr "Pelayan plugin tidak tersedia buat sementara waktu. Muat semula halaman dalam minit."
+
+#: class.car-route-planner-admin.php:95
+msgid "Kilometer, liter"
+msgstr "Kilometer, liter"
+
+#: class.car-route-planner-admin.php:96
+msgid "Mile, UK gallon"
+msgstr "Batu, UK galon"
+
+#: class.car-route-planner-admin.php:97
+msgid "Mile, US gallon"
+msgstr "Batu, US galon"
+
+#: class.car-route-planner-admin.php:109 class.car-route-planner-admin.php:229
+msgid "Generate shortcode"
+msgstr "Menjana kod pendek"
+
+#: class.car-route-planner-admin.php:116
+msgid "Minimalistic mode, results will be displayed on plugin developer's website."
+msgstr "Mod minimalis, keputusan akan dipaparkan di laman web pemaju plugin."
+
+#: class.car-route-planner-admin.php:117
+msgid "Advanced mode, results will be displayed inside iframe with 'powered by' hyperlink."
+msgstr "Mod lanjutan, hasil akan dipaparkan di dalam iframe dengan hyperlink 'powered by'."
+
+#: class.car-route-planner-admin.php:120
+msgid "General settings"
+msgstr "Tetapan umum"
+
+#: class.car-route-planner-admin.php:122
+msgid "Language"
+msgstr "Bahasa"
+
+#: class.car-route-planner-admin.php:130
+msgid "Currency"
+msgstr "Mata wang"
+
+#: class.car-route-planner-admin.php:138
+msgid "Units"
+msgstr "Units"
+
+#: class.car-route-planner-admin.php:148
+msgid "Design"
+msgstr "Reka bentuk"
+
+#: class.car-route-planner-admin.php:150
+msgid "Text color"
+msgstr "Warna teks"
+
+#: class.car-route-planner-admin.php:153
+msgid "Background color"
+msgstr "Warna latar belakang"
+
+#: class.car-route-planner-admin.php:156
+msgid "Accent color"
+msgstr "Warna aksen"
+
+#: class.car-route-planner-admin.php:160
+msgid "Form"
+msgstr "Borang"
+
+#: class.car-route-planner-admin.php:162
+msgid "Default value for \"%s\""
+msgstr "Nilai lalai untuk \"%s\""
+
+#: class.car-route-planner-admin.php:162
+msgid "From"
+msgstr "Dari"
+
+#: class.car-route-planner-admin.php:165
+msgid "To"
+msgstr "Ke"
+
+#: class.car-route-planner-admin.php:169
+msgid "show \"%s\""
+msgstr "tunjukkan \"%s\""
+
+#: class.car-route-planner-admin.php:180
+msgid "hide \"%s\""
+msgstr "sembunyikan \"%s\""
+
+#: class.car-route-planner-admin.php:181
+msgid "default value for \"%s\" must be specified"
+msgstr "nilai lalai untuk \"%s\" mesti ditentukan"
+
+#: class.car-route-planner-admin.php:171
+msgid "Intermediate points"
+msgstr "Mata perantaraan"
+
+#: class.car-route-planner-admin.php:175
+msgid "show fuel calculator"
+msgstr "tunjukkan kalkulator bahan bakar"
+
+#: class.car-route-planner-admin.php:177
+msgid "Fuel consumption"
+msgstr "Penggunaan bahan bakar"
+
+#: class.car-route-planner-admin.php:180
+msgid "Fuel price"
+msgstr "Harga bahan bakar"
+
+#: class.car-route-planner-admin.php:184
+msgid "show \"Maximum speed\" fields"
+msgstr "tunjukkan \"Kelajuan maksimum\" medan"
+
+#: class.car-route-planner-admin.php:186
+msgid "Maximum speed on motorway"
+msgstr "Kelajuan maksimum pada lebuhraya"
+
+#: class.car-route-planner-admin.php:189
+msgid "Maximum speed on other roads"
+msgstr "Kelajuan maksimum pada jalan lain"
+
+#: class.car-route-planner-admin.php:194
+msgid "Results"
+msgstr "Hasil"
+
+#: class.car-route-planner-admin.php:197
+msgid "Route length"
+msgstr "Jarak laluan"
+
+#: class.car-route-planner-admin.php:200
+msgid "Driving time"
+msgstr "Masa memandu"
+
+#: class.car-route-planner-admin.php:203
+msgid "Fuel amount"
+msgstr "Jumlah bahan bakar"
+
+#: class.car-route-planner-admin.php:206
+msgid "Fuel cost"
+msgstr "Kos bahan bakar"
+
+#: class.car-route-planner-admin.php:209
+msgid "Customized cost"
+msgstr "Kos disesuaikan"
+
+#: class.car-route-planner-admin.php:210
+msgid "how to compose formula"
+msgstr "bagaimana untuk membentuk formula"
+
+#: class.car-route-planner-admin.php:211
+msgid "Formula for \"Customized cost\""
+msgstr "Formula untuk \"Kos disesuaikan\""
+
+#: class.car-route-planner-admin.php:214
+msgid "Label for \"Customized cost\""
+msgstr "Label untuk \"Kos disesuaikan\""
+
+#: class.car-route-planner-admin.php:218
+msgid "show map"
+msgstr "tunjukkan peta"
+
+#: class.car-route-planner-admin.php:221
+msgid "show route scheme"
+msgstr "tunjukkan skema laluan"
+
+#: class.car-route-planner-admin.php:224
+msgid "calculate route automatically on page load"
+msgstr "kira laluan secara automatik pada muatan halaman"
+
+#: class.car-route-planner-admin.php:232
+msgid "Copy shortcode"
+msgstr "Salin kod pendek"
+
+#: class.car-route-planner-admin.php:235 class.car-route-planner-admin.php:239
+msgid "Copy shortcode to clipboard"
+msgstr "Salin kod pendek ke papan keratan"
+
+#: class.car-route-planner-admin.php:236
+msgid "Copy this shortcode into your post or page to display the Route Planner."
+msgstr "Salin kod pendek ini ke dalam pos atau halaman anda untuk memaparkan Perancang Laluan."
+
+#: class.car-route-planner-admin.php:240
+msgid "Copied"
+msgstr "Disalin"
+
+#: class.car-route-planner.php:211
+msgid "Calculate"
+msgstr "Kira"
+
+#: class.car-route-planner.php:343
+msgid "mpg"
+msgstr "bsg"
+
+#: class.car-route-planner.php:352
+msgid "km/h"
+msgstr "km/j"
+
+#: class.car-route-planner.php:354
+msgid "mph"
+msgstr "bsj"
+
+#: class.car-route-planner.php:359
+msgid "km"
+msgstr "km"
+
+#: class.car-route-planner.php:361
+msgid "mi"
+msgstr "batu"
+
+#: class.car-route-planner.php:366
+msgid "L"
+msgstr "l"
+
+#: class.car-route-planner.php:368
+msgid "gal"
+msgstr "gal"
+
+#: class.car-route-planner-admin.php:269
+msgid "strictly limit results by countries"
+msgstr "tegaskan batas hasil oleh negara"
+
+#: class.car-route-planner-admin.php:279
+msgid "soft preference for countries"
+msgstr "pilihan lembut untuk negara"
+
+#: class.car-route-planner-admin.php:168
+msgid "Disable font auto tuning"
+msgstr "Lumpuhkan penalaan automatik fon"
+
+#: class.car-route-planner-admin.php:172
+msgid "Font family"
+msgstr "Keluarga fon"
+
+#: class.car-route-planner-admin.php:181
+msgid "Font size"
+msgstr "Saiz huruf"

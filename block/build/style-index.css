@@ -1,0 +1,97 @@
+/*!***************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[4].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[4].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[4].use[3]!./src/style.scss ***!
+  \***************************************************************************************************************************************************************************************************************************************/
+@charset "UTF-8";
+.wp-block-car-route-planner-block {
+  box-shadow: inset 0 0 0 1px #1e1e1e;
+  box-sizing: border-box;
+  color: #1e1e1e;
+  margin: 0;
+  min-height: 200px;
+  outline: 1px solid transparent;
+  padding: 0;
+  position: relative;
+  text-align: left;
+  width: 100%;
+}
+
+.wp-block-car-route-planner-block iframe {
+  width: 100%;
+  height: 500px;
+  border-style: none;
+}
+
+.wp-block-car-route-planner-block .css-u2jump::after {
+  content: "This is a non-interactive preview. Publish this page to see a functioning widget.";
+  left: 50%;
+  right: 2rem;
+  top: 1rem;
+  color: red;
+  font-size: small;
+  opacity: 25%;
+}
+
+.locale-cs-cz .wp-block-car-route-planner-block .css-u2jump::after {
+  content: "Jedná se o neinteraktivní náhled. Chcete-li vidět funkční widget, zveřejněte tuto stránku.";
+}
+
+.locale-de-de .wp-block-car-route-planner-block .css-u2jump::after,
+.locale-de-at .wp-block-car-route-planner-block .css-u2jump::after,
+.locale-de-ch .wp-block-car-route-planner-block .css-u2jump::after {
+  content: "Dies ist eine nicht-interaktive Vorschau. Veröffentlichen Sie diese Seite, um ein funktionierendes Widget zu sehen.";
+}
+
+.locale-es-es .wp-block-car-route-planner-block .css-u2jump::after,
+.locale-es-mx .wp-block-car-route-planner-block .css-u2jump::after,
+.locale-es-ar .wp-block-car-route-planner-block .css-u2jump::after,
+.locale-es-co .wp-block-car-route-planner-block .css-u2jump::after,
+.locale-es-ec .wp-block-car-route-planner-block .css-u2jump::after,
+.locale-es-do .wp-block-car-route-planner-block .css-u2jump::after,
+.locale-es-pe .wp-block-car-route-planner-block .css-u2jump::after,
+.locale-es-uy .wp-block-car-route-planner-block .css-u2jump::after,
+.locale-es-cl .wp-block-car-route-planner-block .css-u2jump::after,
+.locale-es-pr .wp-block-car-route-planner-block .css-u2jump::after,
+.locale-es-gt .wp-block-car-route-planner-block .css-u2jump::after,
+.locale-es-ve .wp-block-car-route-planner-block .css-u2jump::after,
+.locale-es-cr .wp-block-car-route-planner-block .css-u2jump::after {
+  content: "Esta es una vista previa no interactiva. Publica esta página para ver un widget en funcionamiento.";
+}
+
+.locale-fr-fr .wp-block-car-route-planner-block .css-u2jump::after,
+.locale-fr-ca .wp-block-car-route-planner-block .css-u2jump::after,
+.locale-fr-be .wp-block-car-route-planner-block .css-u2jump::after {
+  content: "Il s'agit d'un aperçu non interactif. Publiez cette page pour voir un widget fonctionnel.";
+}
+
+.locale-it-it .wp-block-car-route-planner-block .css-u2jump::after {
+  content: "Questa è un'anteprima non interattiva. Pubblicate questa pagina per vedere un widget funzionante.";
+}
+
+.locale-ms-my .wp-block-car-route-planner-block .css-u2jump::after {
+  content: "Ini ialah pratonton bukan interaktif. Terbitkan halaman ini untuk melihat widget yang berfungsi.";
+}
+
+.locale-nl-be .wp-block-car-route-planner-block .css-u2jump::after,
+.locale-nl-nl .wp-block-car-route-planner-block .css-u2jump::after {
+  content: "Dit is een niet-interactieve preview. Publiceer deze pagina om een werkende widget te zien.";
+}
+
+.locale-pl-pl .wp-block-car-route-planner-block .css-u2jump::after {
+  content: "To jest nieinteraktywny podgląd. Opublikuj tę stronę, aby zobaczyć działający widżet.";
+}
+
+.locale-pt-br .wp-block-car-route-planner-block .css-u2jump::after,
+.locale-pt-pt .wp-block-car-route-planner-block .css-u2jump::after,
+.locale-pt-ao .wp-block-car-route-planner-block .css-u2jump::after {
+  content: "Esta é uma pré-visualização não interactiva. Publique esta página para ver um widget a funcionar.";
+}
+
+.locale-tr-tr .wp-block-car-route-planner-block .css-u2jump::after {
+  content: "Bu etkileşimli olmayan bir önizlemedir. Çalışan bir widget görmek için bu sayfayı yayınlayın.";
+}
+
+.locale-uz-uz .wp-block-car-route-planner-block .css-u2jump::after {
+  content: "Bu interaktiv bo'lmagan oldindan ko'rish. Ishlayotgan vidjetni ko'rish uchun ushbu sahifani nashr qiling.";
+}
+
+/*# sourceMappingURL=style-index.css.map*/

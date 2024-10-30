@@ -1,0 +1,52 @@
+.crp-wrap label {
+    display: block;
+}
+
+#crp-shortcode-wrap {
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+#crp-shortcode-wrap textarea {
+    width: 100%;
+}
+
+.crp-advanced-settings-wrap {
+    margin-left: 1em;
+}
+
+.crp-settings-accordion h3:focus {
+    outline: none;
+}
+
+.crp-settings-accordion .ui-state-active,
+.crp-settings-accordion .ui-state-deafult,
+.crp-settings-accordion .ui-widget-content {
+    background-image: none !important;
+}
+
+.crp-settings-accordion label, .crp-settings-accordion select, .crp-settings-accordion input[type=text] {
+    display: block;
+}
+
+.crp-settings-accordion label {
+    margin-bottom: 1em;
+}
+
+.crp-settings-accordion label.color-label {
+    margin-bottom: 0;
+}
+
+.crp-config-choice-simple {
+    margin-bottom: 1em;
+}
+
+.crp-config-choice-advanced {
+    margin-bottom: 0.5em;
+}
+
+#crp-shortcode, #crp-copy-button {
+    display: inline-block;
+    vertical-align: top;
+}
+

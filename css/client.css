@@ -1,0 +1,31 @@
+.crp-simple-form .crp-table {
+    display: table;
+}
+
+.crp-simple-form .crp-tr {
+    display: table-row;
+}
+
+.crp-simple-form .crp-tr .crp-td {
+    display: table-cell;
+    vertical-align: bottom;
+    padding-left: 1em;
+}
+.crp-simple-form .crp-tr .crp-td:first-child {
+    padding-left: 0;
+}
+
+.crp-simple-form .crp-tr .crp-td {
+    padding-top: 1em;
+}
+.crp-simple-form .crp-tr:first-child .crp-td {
+    padding-top: 0;
+}
+
+.crp-simple-form .crp-submit {
+    margin-top: 1em;
+}
+
+.ui-autocomplete.ui-widget-content {
+    background-image: none;
+}

@@ -1,0 +1,164 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 3,
+	"name": "car-route-planner/block",
+	"version": "0.1.0",
+	"title": "Car Route Planner",
+	"category": "widgets",
+	"icon": "car",
+	"description": "Calculator of various values for route, such as length, driving time, fuel amount and cost, customized cost.",
+    "attributes": {
+        "mode": {
+            "type": "string",
+            "enum": ["simple", "advanced"],
+            "default": "simple"
+        },
+        "language": {
+            "type": "string",
+            "default": "en"
+        },
+        "currency": {
+            "type": "string",
+            "default": "USD"
+        },
+        "measure": {
+            "type": "string",
+            "enum": ["metric", "imperial", "us_cust"],
+            "default": "us_cust"
+        },
+
+        "textColor": {
+            "type": "string",
+            "default": "#000000"
+        },
+        "background_color": {
+            "type": "string",
+            "default": "#ffffff"
+        },
+        "accent_color": {
+            "type": "string",
+            "default": "#269adb"
+        },
+
+        "disable_font_auto_tuning": {
+            "type": "boolean",
+            "default": false
+        },
+        "font_family": {
+            "type": "string",
+            "default": "Open Sans"
+        },
+        "font_size": {
+            "type": "string",
+            "default": "1rem"
+        },
+
+        "default_from": {
+            "type": "string",
+            "default": ""
+        },
+        "hide_from": {
+            "type": "boolean",
+            "default": false
+        },
+        "default_to": {
+            "type": "string",
+            "default": ""
+        },
+        "hide_to": {
+            "type": "boolean",
+            "default": false
+        },
+        "default_via": {
+            "type": "string",
+            "default": ""
+        },
+        "show_via": {
+            "type": "boolean",
+            "default": true
+        },
+        "show_fuel_calc": {
+            "type": "boolean",
+            "default": true
+        },
+        "default_fuel_consumption": {
+            "type": "string",
+            "default": ""
+        },
+        "default_fuel_price": {
+            "type": "string",
+            "default": ""
+        },
+        "show_speed_profile": {
+            "type": "boolean",
+            "default": true
+        },
+        "default_speed_limit_motorway": {
+            "type": "string",
+            "default": ""
+        },
+        "default_speed_limit_other": {
+            "type": "string",
+            "default": ""
+        },
+
+        "show_result_length": {
+            "type": "boolean",
+            "default": true
+        },
+        "show_result_driving_time": {
+            "type": "boolean",
+            "default": true
+        },
+        "show_result_fuel_amount": {
+            "type": "boolean",
+            "default": true
+        },
+        "show_result_fuel_cost": {
+            "type": "boolean",
+            "default": true
+        },
+        "show_result_customized_cost": {
+            "type": "boolean",
+            "default": false
+        },
+        "customized_cost_formula": {
+            "type": "string",
+            "default": ""
+        },
+        "customized_cost_label": {
+            "type": "string",
+            "default": ""
+        },
+        "show_result_map": {
+            "type": "boolean",
+            "default": true
+        },
+        "show_result_scheme": {
+            "type": "boolean",
+            "default": true
+        },
+        "calculate_instantly": {
+            "type": "boolean",
+            "default": false
+        },
+        "only_countries": {
+            "type": "array",
+            "default": []
+        },
+        "prefer_countries": {
+            "type": "array",
+            "default": []
+        }
+    },
+	"example": {
+
+    },
+    "supports": {
+        "html": false
+    },
+	"textdomain": "car-route-planner",
+	"editorScript": "file:./index.js",
+	"editorStyle": "file:./editor.css",
+    "style": "file:./style-index.css"
+}

@@ -1,0 +1,257 @@
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Description of the plugin
+msgid "Route planner for car travelers. Calculator of various values for route, such as length, driving time, fuel amount and cost, customized cost."
+msgstr "Route planner voor reizen met de auto. Berekend verschillende waardes voor de route, zoals lengte, tijd onderweg, benzineverbruik en kosten en zelf geformuleerde kosten."
+
+#. Author of the plugin
+msgid "DriveBestWay.com"
+msgstr "BesteRoutes.com"
+
+#. Author URI of the plugin
+msgid "https://www.drivebestway.com/"
+msgstr "https://www.besteroutes.com/"
+
+#: class.car-route-planner-admin.php:21
+msgid "Settings"
+msgstr "Instellingen"
+
+#: class.car-route-planner-admin.php:28 class.car-route-planner-admin.php:29
+msgid "Car Route Planner"
+msgstr "Car Route Planner"
+
+#: class.car-route-planner-admin.php:39
+msgid "Plugin's server is temporarily unavailable. Reload the page in a few minutes."
+msgstr "De server van de plugin is tijdelijk niet beschikbaar. Herlaadt de pagina in een paar minuten."
+
+#: class.car-route-planner-admin.php:95
+msgid "Kilometer, liter"
+msgstr "Kilometer, liter"
+
+#: class.car-route-planner-admin.php:96
+msgid "Mile, UK gallon"
+msgstr "Mijl, UK gallon"
+
+#: class.car-route-planner-admin.php:97
+msgid "Mile, US gallon"
+msgstr "Mijl, US gallon"
+
+#: class.car-route-planner-admin.php:109 class.car-route-planner-admin.php:229
+msgid "Generate shortcode"
+msgstr "Genereer shortcode"
+
+#: class.car-route-planner-admin.php:116
+msgid "Minimalistic mode, results will be displayed on plugin developer's website."
+msgstr "Minimalistische mode, resultaten worden weergegeven op de website van de plugin developer."
+
+#: class.car-route-planner-admin.php:117
+msgid "Advanced mode, results will be displayed inside iframe with 'powered by' hyperlink."
+msgstr "Geavanceerde modus, resultaten worden weergegeven binnen een iframe met een 'Mogelijk gemaakt door' hyperlink."
+
+#: class.car-route-planner-admin.php:120
+msgid "General settings"
+msgstr "Algemene instellingen"
+
+#: class.car-route-planner-admin.php:122
+msgid "Language"
+msgstr "Taal"
+
+#: class.car-route-planner-admin.php:130
+msgid "Currency"
+msgstr "Valuta"
+
+#: class.car-route-planner-admin.php:138
+msgid "Units"
+msgstr "Eenheden"
+
+#: class.car-route-planner-admin.php:148
+msgid "Design"
+msgstr "Design"
+
+#: class.car-route-planner-admin.php:150
+msgid "Text color"
+msgstr "Tekst kleur"
+
+#: class.car-route-planner-admin.php:153
+msgid "Background color"
+msgstr "Achtergrond kleur"
+
+#: class.car-route-planner-admin.php:156
+msgid "Accent color"
+msgstr "Accentkleur"
+
+#: class.car-route-planner-admin.php:160
+msgid "Form"
+msgstr "Formulier"
+
+#: class.car-route-planner-admin.php:162
+msgid "Default value for \"%s\""
+msgstr "Standaard waarde voor \"%s\""
+
+#: class.car-route-planner-admin.php:162
+msgid "From"
+msgstr "Van"
+
+#: class.car-route-planner-admin.php:165
+msgid "To"
+msgstr "Naar"
+
+#: class.car-route-planner-admin.php:169
+msgid "show \"%s\""
+msgstr "toon \"%s\""
+
+#: class.car-route-planner-admin.php:180
+msgid "hide \"%s\""
+msgstr "Verberg \"%s\""
+
+#: class.car-route-planner-admin.php:181
+msgid "default value for \"%s\" must be specified"
+msgstr "Standaard waarde voor \"%s\" moet worden opgegeven"
+
+#: class.car-route-planner-admin.php:171
+msgid "Intermediate points"
+msgstr "Tussenliggende punten"
+
+#: class.car-route-planner-admin.php:175
+msgid "show fuel calculator"
+msgstr "toon brandstof berekening"
+
+#: class.car-route-planner-admin.php:177
+msgid "Fuel consumption"
+msgstr "Brandstofverbruik"
+
+#: class.car-route-planner-admin.php:180
+msgid "Fuel price"
+msgstr "Brandstofprijs"
+
+#: class.car-route-planner-admin.php:184
+msgid "show \"Maximum speed\" fields"
+msgstr "toon \"Maximum snelheid\" velden"
+
+#: class.car-route-planner-admin.php:186
+msgid "Maximum speed on motorway"
+msgstr "Maximum snelheid op snelwegen"
+
+#: class.car-route-planner-admin.php:189
+msgid "Maximum speed on other roads"
+msgstr "Maximum snelheid op andere wegen"
+
+#: class.car-route-planner-admin.php:194
+msgid "Results"
+msgstr "Resultaten"
+
+#: class.car-route-planner-admin.php:197
+msgid "Route length"
+msgstr "Lengte van route"
+
+#: class.car-route-planner-admin.php:200
+msgid "Driving time"
+msgstr "Rijtijd"
+
+#: class.car-route-planner-admin.php:203
+msgid "Fuel amount"
+msgstr "Hoeveelheid brandstof"
+
+#: class.car-route-planner-admin.php:206
+msgid "Fuel cost"
+msgstr "Brandstofkost"
+
+#: class.car-route-planner-admin.php:209
+msgid "Customized cost"
+msgstr "Zelf geformuleerde kosten"
+
+#: class.car-route-planner-admin.php:210
+msgid "how to compose formula"
+msgstr "hoe formule samen te stellen"
+
+#: class.car-route-planner-admin.php:211
+msgid "Formula for \"Customized cost\""
+msgstr "Formule voor \"Zelf geformuleerde kosten\""
+
+#: class.car-route-planner-admin.php:214
+msgid "Label for \"Customized cost\""
+msgstr "Etiket voor \"Zelf geformuleerde kosten\""
+
+#: class.car-route-planner-admin.php:218
+msgid "show map"
+msgstr "toon kaart"
+
+#: class.car-route-planner-admin.php:221
+msgid "show route scheme"
+msgstr "toon route schema"
+
+#: class.car-route-planner-admin.php:224
+msgid "calculate route automatically on page load"
+msgstr "route automatisch berekenen bij laden van pagina"
+
+#: class.car-route-planner-admin.php:232
+msgid "Copy shortcode"
+msgstr "Kopieer shortcode"
+
+#: class.car-route-planner-admin.php:235 class.car-route-planner-admin.php:239
+msgid "Copy shortcode to clipboard"
+msgstr "Kopieer shortcode naar klembord"
+
+#: class.car-route-planner-admin.php:236
+msgid "Copy this shortcode into your post or page to display the Route Planner."
+msgstr "Kopieer deze shortcode in je bericht of pagina om de Route Planner te tonen."
+
+#: class.car-route-planner-admin.php:240
+msgid "Copied"
+msgstr "Gekopieerd"
+
+#: class.car-route-planner.php:211
+msgid "Calculate"
+msgstr "Bereken"
+
+#: class.car-route-planner.php:343
+msgid "mpg"
+msgstr "mpg"
+
+#: class.car-route-planner.php:352
+msgid "km/h"
+msgstr "km/u"
+
+#: class.car-route-planner.php:354
+msgid "mph"
+msgstr "mpu"
+
+#: class.car-route-planner.php:359
+msgid "km"
+msgstr "km"
+
+#: class.car-route-planner.php:361
+msgid "mi"
+msgstr "mi"
+
+#: class.car-route-planner.php:366
+msgid "L"
+msgstr "L"
+
+#: class.car-route-planner.php:368
+msgid "gal"
+msgstr "gal"
+
+#: class.car-route-planner-admin.php:269
+msgid "strictly limit results by countries"
+msgstr "beperk sterk de resultaten per land"
+
+#: class.car-route-planner-admin.php:279
+msgid "soft preference for countries"
+msgstr "lichte voorkeur voor landen"
+
+#: class.car-route-planner-admin.php:168
+msgid "Disable font auto tuning"
+msgstr "Schakel het automatisch afstemmen van lettertypen uit"
+
+#: class.car-route-planner-admin.php:172
+msgid "Font family"
+msgstr "Lettertypefamilie"
+
+#: class.car-route-planner-admin.php:181
+msgid "Font size"
+msgstr "Lettertypegrootte"
